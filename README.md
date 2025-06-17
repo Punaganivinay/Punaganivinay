@@ -1,4 +1,5 @@
-![Header](https://your-image-url.com/banner.png)
+![Header](![WhatsApp Image 2025-02-02 at 12 18 01_5d010000](https://github.com/user-attachments/assets/30fa6cee-b57d-46df-aab3-2e6535893af4)
+)
 
 # 👋 Hi, I'm Punagani Vinay, a web developer with a strong focus on building responsive, user-friendly websites and web applications. I specialize in translating ideas into clean, functional code using modern technologies. My passion lies in creating intuitive digital experiences and continuously learning to stay current with evolving web standards and trends."
 
@@ -28,13 +29,11 @@ I enjoy turning complex problems into elegant, efficient solutions. Always explo
 
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/punaganivinay?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Thanks for visiting! ⭐  
